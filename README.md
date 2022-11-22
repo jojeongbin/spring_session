@@ -2,7 +2,7 @@
 
 -Speaker:조정빈
 
-##CRUD기능구현 1주차 - 개발환경 설정, 프로젝트&DB구축,게시글 처리
+#CRUD기능구현 1주차 - 개발환경 설정, 프로젝트&DB구축,게시글 처리
 
 -2022년 11월 7일
 -CRUD 기능구현 1주차 notion(https://www.notion.so/spring_CRUD-1-a1dc3c133317429c85552ea1ca3e8fc4)
