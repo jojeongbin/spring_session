@@ -1,19 +1,61 @@
-# springboot session
+# 프로젝트 이름
 
--Speaker:조정빈
+<p align="center">
+  <br>
+  <img src="./images/common/logo-sample.jpeg">
+  <br>
+</p>
 
-#CRUD기능구현 1주차 - 개발환경 설정, 프로젝트&DB구축,게시글 처리
+목차
 
--2022년 11월 7일
--CRUD 기능구현 1주차
--notion(https://www.notion.so/spring_CRUD-1-a1dc3c133317429c85552ea1ca3e8fc4)
+## 프로젝트 소개
 
-### 💡 프로젝트 생성
+<p align="justify">
+프로젝트 개요/동기
+</p>
 
+<p align="center">
+GIF Images
+</p>
 
+<br>
 
-# Su-tudy 2주차 - 글 목록, 게시글 상세보기
+## 기술 스택
 
-# Su-tudy 3주차 - 글 삭제, 글 수정
+| JavaScript | TypeScript |  React   |  Node   |
+| :--------: | :--------: | :------: | :-----: |
+|   ![js]    |   ![ts]    | ![react] | ![node] |
 
+<br>
+
+## 구현 기능
+
+### 기능 1
+
+### 기능 2
+
+### 기능 3
+
+### 기능 4
+
+<br>
+
+## 배운 점 & 아쉬운 점
+
+<p align="justify">
+
+</p>
+
+<br>
+
+## 라이센스
+
+MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
+
+<!-- Stack Icon Refernces -->
+
+[js]: /images/stack/javascript.svg
+[ts]: /images/stack/typescript.svg
+[react]: /images/stack/react.svg
+[node]: /images/stack/node.svg
 
