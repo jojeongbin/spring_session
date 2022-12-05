@@ -3,6 +3,8 @@ package com.springsession.board5.service;
 import com.springsession.board5.entity.Crud;
 import com.springsession.board5.repository.BoardRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
@@ -24,9 +26,8 @@ public class BoardService {
     }
 
     //게시물 리스트 처리
-    public List<Crud> boardList(){
-
-        return boardRepository.findAll();
+    public Page<Crud> boardList(Pageable pageable){
+        return  boardRepository.findAll(pageable);
     }
 
     //특정 게시물 불러오기
@@ -34,6 +35,13 @@ public class BoardService {
 
         return boardRepository.findById(id).get();
     }
+
+    //게시글 검색
+    public  Page<Crud> boardSearchList(String searchKeyword,Pageable pageable){
+
+        return boardRepository.findByTitleContaining(searchKeyword, pageable);
+    }
+
 
     //특정 게시글 삭제
     public void boardDelete(Integer id){
