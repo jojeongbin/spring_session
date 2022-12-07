@@ -1,4 +1,4 @@
-# 프로젝트 이름
+# GDSC-Springboot session
 
 <p align="center">
   <br>
