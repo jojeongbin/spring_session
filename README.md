@@ -1,7 +1,10 @@
 # GDSC-Springboot session
 
 -speaker:조정빈
+
 -세션 날짜: 매주 월요일 10시
+
+
 -장소:GDSC_Discode>springboot-2022-2 음성채널
 
 ## 세션 소개
