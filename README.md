@@ -7,14 +7,14 @@
 
 :heavy_check_mark:장소:GDSC_Discode>springboot-2022-2 음성채널
 
-## 세션 소개
+## :heavy_check_mark:세션 소개
 
-:heavy_check_mark:spring boot를 사용한 CRUD 기능 구현
+-spring boot를 사용한 CRUD 기능 구현
 
 
-:heavy_check_mark:간단한 게시판 만들기
+-간단한 게시판 만들기
 
-:heavy_check_mark:HeidiSQL, MariaDB, JPA,Postman,Springboot 사용
+-HeidiSQL, MariaDB, JPA,Postman,Springboot 사용
 
 ## WEEK1
 
