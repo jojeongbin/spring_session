@@ -1,24 +1,13 @@
 # GDSC-Springboot session
 
-<p align="center">
-  <br>
-  <img src="./images/common/logo-sample.jpeg">
-  <br>
-</p>
+-speaker:조정빈
+-세션 날짜: 매주 월요일 10시
+-장소:GDSC_Discode>springboot-2022-2 음성채널
 
-목차
+## 세션 소개
 
-## 프로젝트 소개
-
-<p align="justify">
-프로젝트 개요/동기
-</p>
-
-<p align="center">
-GIF Images
-</p>
-
-<br>
+-spring boot를 사용한 CRUD 기능 구현
+-간단한 게시판 만들기
 
 ## 기술 스택
 
