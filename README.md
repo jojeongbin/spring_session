@@ -2,10 +2,13 @@
 
 - speaker:조정빈
 
+- 참여자:김민준, 박수경, 박지현, 이부원, 이예찬, 황승수
+
 - 세션 날짜: 매주 월요일 10시
 
 
 - 장소:GDSC_Discode>springboot-2022-2 음성채널
+
 
 ## :heavy_check_mark: 세션 소개
 
