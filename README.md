@@ -14,13 +14,16 @@
 
 -간단한 게시판 만들기
 
-## 기술 스택
+## WEEK1
 
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+-개발환경 설정
 
-<br>
+-프로젝트 & DB 구축
+
+-게시글 처리
+
+-https://www.notion.so/spring_CRUD-1-a1dc3c133317429c85552ea1ca3e8fc4
+
 
 ## 구현 기능
 
