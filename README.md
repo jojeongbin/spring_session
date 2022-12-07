@@ -1,4 +1,4 @@
-# GDSC-Springboot session
+# :rocket:GDSC-Springboot session
 
 -speaker:조정빈
 
