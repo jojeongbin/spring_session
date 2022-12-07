@@ -14,6 +14,9 @@
 
 :heavy_check_mark:간단한 게시판 만들기
 
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-#003545?style=for-the-badge&logo=springboot&logoColor=white">
+
 ## WEEK1
 
 :heavy_check_mark:개발환경 설정
