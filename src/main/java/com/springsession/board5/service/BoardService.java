@@ -36,7 +36,7 @@ public class BoardService {
         return boardRepository.findById(id).get();
     }
 
-    //게시글 검색
+    //글 검색
     public  Page<Crud> boardSearchList(String searchKeyword,Pageable pageable){
 
         return boardRepository.findByTitleContaining(searchKeyword, pageable);
