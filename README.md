@@ -8,52 +8,6 @@
 
 
 - 장소:GDSC_Discode>springboot-2022-2 음성채널
-# 🌿spring_CRUD (1)
-
-spring CRUD 기능구현 세션 1주차 (개발환경 설정, 프로젝트&DB구축,게시글 처리)
-
-### 프로젝트 생성
-
----
-
-[Spring Initializr](https://start.spring.io/)
-
-![Untitled](%F0%9F%8C%BFspring_CRUD%20(1)%20a1dc3c133317429c85552ea1ca3e8fc4/Untitled.png)
-
-### 실행오류
-
----
-
-[[Spring] o.s.b.d.LoggingFailureAnalysisReporter 에러 해결](https://blog.amaorche.com/145)
-
-[Error starting ApplicationContext. To display the conditions report re-run your application with 'de](https://m.blog.naver.com/fbfbf1/222632330287)
-
-### application.properties
-
----
-
-```java
-spring.datasource.driver-class-name=org.mariadb.jdbc.Driver
-spring.datasource.username=root
-spring.datasource.password=0000
-spring.datasource.url=jdbc:mysql://localhost:3306/crud 
-```
-
-### annotation이란?
-
----
-
-annotation:주석
-
-코드 사이에 주석처럼 쓰면서 특별한 의미, 기능을 수행하도록 하는 기술로 프로그램에게 추가적인 정보를 제공해주는 메타데이터
-
-### annotation의 용도
-
----
-
-1. 컴파일러에게 코드 작성 문법 에러를 체크하도록 정보 제공
-2. 소프트웨어 개발툴이 빌드나 배치 시 코드를 자동으로 생성할 수 있도록 정보를 제공한다.
-3. **런타임 시 특정 기능을 실행하도록 정보를 제공한다.**
 
 ## :heavy_check_mark: 세션 소개
 
